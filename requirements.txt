@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python-headless<5
+scikit-learn==1.6.1
+joblib
+Pillow
+numpy
+matplotlib
